@@ -1,6 +1,6 @@
 <SpecialThingFilters>
     <SpecialThingFilterDef>
-        <defName>allowFresh</defName>
+        <defName>AllowFresh</defName>
         <label>allow fresh</label>
         <description>Allow organic things that are still fresh</description>
         <parentCategory>Root</parentCategory>
