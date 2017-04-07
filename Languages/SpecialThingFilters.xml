@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<AllowFresh.label>新鮮なアイテムを許可</AllowFresh.label>
+	<AllowFresh.description>腐敗していない、まだ新鮮な有機物を許可する</AllowFresh.description>
+
+</LanguageData>
