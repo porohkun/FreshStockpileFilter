@@ -1,4 +1,4 @@
-<SpecialThingFilters>
+<Defs>
     <SpecialThingFilterDef>
         <defName>AllowFresh</defName>
         <label>allow fresh</label>
@@ -8,4 +8,4 @@
         <saveKey>allowFresh</saveKey>
         <workerClass>RimWorld.SpecialThingFilterWorker_Fresh</workerClass>
     </SpecialThingFilterDef>
-</SpecialThingFilters>
+</Defs>
